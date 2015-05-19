@@ -1,7 +1,55 @@
 /* login widget content */
 
 <login-signup-button """
-  <p>Registreer</p><p>USING GOOGLE</p>
+  <p>Registreer</p><p>MET GOOGLE</p>
 """>
-<login-tagline "Het is gratis en het is gemakkelijke! Already signed up? <a>log in</a>.">
-<logout "Logout">
+<login-tagline "Het is gratis en het is gemakkelijk! Heb jij je al geregistreerd? <a>Aanmelden</a>.">
+<logout "Afmelden">
+
+/* front page content */
+
+<index-description """
+  <h1>Ontketen uw creativiteit</h1>
+  <p>Maak schitterende aantekeningen, snel en gemakkelijk. Deel ze met vrienden en collega's om ze gezamenlijk nog beter te maken. Helemaal gratis!</p>
+  <p><a><span><b>Begin er nu mee! </b></span></a><a><span>Of, lees verder.</span></a></p>
+""">
+<testimonial-jenn """
+  <p>"Ik kan mijn tevredenheid in een woord beschrijven...
+  supercalifragilisticexpialidocious!"</p>
+  <p>Jenn, Coggle Gebruiker</p>
+""">
+
+<features-collaborate """
+  <img>
+  <h2>Betrek iedereen erbij</h2>
+  <p>Vaak werken we het beste in een team, en teams werken het meest efficiënt als we simpel kunnen samenwerken. Met Coggle kun je jouw vrienden en collega's uitnodigen om samen met jou, tegelijkertijd, te werken aan jouw diagrammen.</p>
+""">
+
+<features-images """
+  <img>
+  <h2>Complete the picture</h2>
+  <p>Een plaatje zegt meer dan 1000 woorden. Met Coggle kun je afbeelden zo van je bureaublad naar jouw diagram slepen. Zo simpel als dat!</p>
+  <p>En het mooiste is: Er is geen limiet voor het aantal plaatjes, dat je kunt toevoegen.</p>
+""">
+
+<features-history """
+  <img>
+  <h2>Terug in de tijd</h2>
+  <p>Heb je wijzigingen gemaakt aan een document en ben je er achteraf toch niet tevreden over? Met Coggle is dat geen probleem. Zoek in de geschiedenis naar de juiste versie en maak een kopie vanaf dat punt!</p>
+""">
+
+<features-blame """
+  <img>
+  <h2>Wijzigingen bijhouden</h2>
+  <p>Heb jij je ooit afgevraagd wie bepaalde wijzigingen heeft gemaakt aan een gezamenlijk document? Met Coggle kun je door de geschiedenis kijken en zien wie wat gewijzigd heeft, en wanneer! Ga naar de geschiedenis modus om het uit te zoeken.</p>
+""">
+
+<features-colours """
+  <img>
+  <h2>Even kleur bekennen</h2>
+  <p>Ben jij een visuele denker? Leer jij van layout en kleur? Nou, kies de juiste kleur voor de onderwerpen op het diagram, klik op een vertakking om de kleurencircel te tonen en de gewenste kleur te selecteren.</p>
+""">
+
+<features-others """
+  Coggle heeft nog meer mooie features, dus <a>probeer het nu</a>, het is gratis! Ga naar de <a>blog</a> om meer te lezen.
+""">
