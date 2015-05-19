@@ -74,6 +74,85 @@
   <p>Open een Coggle tijdens een vergadering, tijdens een evaluatie of wanneer dan ook je inspiratie hebt om mooie gestructureerde aantekeningen te maken.</p>
 """>
 
+<index-use-brainstorm """
+  <div><img></div>
+  <h2>Brainstorm</h2>
+  <p>Begin met een klein idee, behandel het met Coggle en zie hoe het zich ontwikkelt tot een volledig uitgewerkt plan, helder overzichtelijk en klaar om te delen.</p>
+""">
+
+<index-use-share """
+  <div><img></div>
+  <h2>Deel Information</h2>
+  <p>Giet jouw onderwerp in een Coggle, inclusief alle details en deel ze met jouw team, klasgenoten of de wereld!</p>
+""">
+
+<index-use-other """
+  Dit zijn slechts een paar zaken, waarvoor Coggle handig is – <a>probeer het ook</a> nu en ontdek wat het voor jou kan doen!
+""">
+
+<index-helpteam-orgs """
+  <a><img></a>
+  <h2>Help jouw team communiceren met <a>Coggle Organisations</a>.</h2>
+  <p>Geef jouw team een gezamenlijke plek om te brainstormen, aantekeningen en het vastleggen van ideeën. Met Coggle Organisations krijg je alle functionaliteiten, die nodig zijn voor beheren van jouw data en integreert met jouw business workflow. Lees meer <a>hier</a>.</p>
+  <a>Meld je nu aan<div>Vanaf £5 per teamlid per maand</div></a>
+""">
+
+
+/* sign-up page content */
+<signup-choose-plan "Kies jouw persoonlijke abonnement">
+
+<signup-free-plan """
+  <label>
+    <input>
+    <b>Gratis!</b>
+    <span>actief</span>
+    <p>Ongelimiteerde diagrammen. Ongelimiteerde plaatjes. Ongelimiteerde downloads. Al het goede van Coggle.</p>
+  </label>
+""">
+
+
+<signup-supporter-plan """
+  <label>
+    <input>
+    <b>Coggle Supporter</b> — <b>£5 per jaar</b>
+    <span>actief</span>
+    <p>Als eerst toegang tot nieuwe features! Grotere upload van plaatjes, cross links tussen items. <a>Lees meer</a>.</p>
+  </label>
+""">
+
+<help-setup-org """
+    <input> Geef me ook assistentie bij het opzetten van een <a>Coggle Organisation</a> voor mijn team &mdash; <b>£5 per teamlid per maand</b>
+""">
+
+<help-setup-org-description """
+    Een Coggle Organisation maakt het mogelijk om jouw business gegevens te scheiden van persoonlijk account. Ze zijn zeer geschikt voor bedrijven, die toegang wil beheren voor een groep van medewerkers.
+""">
+
+
+<billing-check-out-orgs """
+    <b>Gebruik je Coggle zakelijk?</b> Kijk eens naar <a>Coggle Organisations</a>
+""">
+
+
+<signup-signup "REGISTREER">
+<signup-save "OPSLAAN">
+
+
+/* documents list content */
+<createcoggle """
+  <p title="Maak een nieuwe Coggle.">NIEUW</p>
+""">
+<createfolder """
+  <img>
+  <p title="Maak een nieuwe Map.">VOEG TOE</p>
+""">
+<limitedaccess "Je hebt slechts beperkte toegang tot  aangezien je nog geen lid bent">
+<link-drive """
+  <a><img>
+    <span>Heb je teveel Coggles? Organiseer ze in jouw Google Drive</span>
+  </a>
+""">
+
 
 
 
