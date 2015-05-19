@@ -1,0 +1,7 @@
+/* login widget content */
+
+<login-signup-button """
+  <p>Registreer</p><p>USING GOOGLE</p>
+""">
+<login-tagline "Het is gratis en het is gemakkelijke! Already signed up? <a>log in</a>.">
+<logout "Logout">
