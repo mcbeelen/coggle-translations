@@ -53,3 +53,27 @@
 <features-others """
   Coggle heeft nog meer mooie features, dus <a>probeer het nu</a>, het is gratis! Ga naar de <a>blog</a> om meer te lezen.
 """>
+
+<footer-index """
+  <p>Meer <a>over Coggle</a>.</p>
+  <a><img alt="Vind ons leuk facebook"></a>
+  <a><img alt="Volg ons op twitter"></a>
+  <p>Koop <a>Coggle gadgets</a>!</p><br>
+  <p>Onze <a>privacy policy</a>.</p>
+  <p>Voor de <a>pers</a>.</p>
+""">
+
+/* new frontpage content */
+<index-tagline "Een duidelijke manier om complexe informatie te delen.">
+<index-signupnow "Registreer Nu Gratis">
+<index-login "Heb jij je al geregistreerd? Aanmeld hier.">
+
+<index-use-notes """
+  <div><img></div>
+  <h2>Maak aantekeningen</h2>
+  <p>Open een Coggle tijdens een vergadering, tijdens een evaluatie of wanneer dan ook je inspiratie hebt om mooie gestructureerde aantekeningen te maken.</p>
+""">
+
+
+
+
